@@ -25,13 +25,17 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📝 Document Your Experience
 
-- [ ] Describe the game's purpose.
-- [ ] Detail which bugs you found.
-- [ ] Explain what fixes you applied.
+- The games purpose is to guess the correct number. Hints are given to help you close in on the correct answer, but you are only given a number of attempts to guess correctly before the game ends and you lose.
+- Lots of bugs were found and fixed:
+      - Secret number being consistent 
+      - Displayed attempts
+      - New game working properly
+      - Modifiying the levels difficulty accordingly
+      - Submitting with the enter key
 
 ## 📸 Demo
 
-- [ ] [Insert a screenshot of your fixed, winning game here]
+- ![alt text](/ai110-module1show-gameglitchinvestigator-starter/img/pytest_screenshot.png)
 
 ## 🚀 Stretch Features
 

@@ -1,0 +1,3 @@
+Hey Claude, im building this guessing game using python and streamlit. The point of the game is for the user to guess the correct number within the input box. There are difficulty levels within the game, the user can start a new game and can also get hints. Once the user is pass their attempts, the game is over and they lose if they didnt guess correctly. But there are lots of problems. The game is super buggy as of now, here is where I want to start off: Be my senior software engineer friend and help me fix this by identifying the bugs and explaining your reasoning behind any changes.
+
+Make sure to always point at the lines of code you edited with a quick sentence saying what the edit was.
